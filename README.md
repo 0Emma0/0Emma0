@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +14,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Welcome to my GitHub profile
+Since 2005 I have worked as an IT systems administrator and web application support in complex infrastructure environments, either cloud, hybrid cloud and on-premises. I'm currently working using Linux, Jenkins, Ansible, Terraform, Docker, Kubernetes, AWS, Google Cloud, Azure, GitHub, Prometheus, Grafana and more.
+
+## Certifications
+- [OpenHack: DevOps](https://www.credly.com/badges/931ed695-71e2-487d-8639-cedf68985640/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e7238089-5d2c-4a5e-868c-f83d1fbbf293/public_url)
+- [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/803bae78-3401-4c7e-ad35-413e212c3dd0/public_url)
+- [Google Cloud - Associate Cloud Engineer](https://www.credential.net/7310d5d3-ff3d-44dd-8762-d3884fba5168)
+- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/e7e9cff8-9c5c-4e79-abe4-628c24d34bbf/public_url)
+
+- 🌱 I'm currently studying for the Certified Kubernetes Administrator exam...
+
+## Contacts
+[![Linkedin Badge](https://img.shields.io/badge/-emmanuelgutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelperoco/)](https://www.linkedin.com/in/emmanuel-david-gutierrez/)
+[![Gmail Badge](https://img.shields.io/badge/eg.tecnologias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eg.tecnologias@gmail.com)](mailto:eg.tecnologias@gmail.com)
+
+## ⚡ Technologies
+
+![Linux](https://img.shields.io/badge/Linux-FCC624)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020)
