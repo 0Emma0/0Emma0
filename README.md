@@ -25,8 +25,6 @@ Since 2002 I have worked as an IT systems administrator and web application supp
 - [Google Cloud - Associate Cloud Engineer](https://www.credential.net/7310d5d3-ff3d-44dd-8762-d3884fba5168)
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/e7e9cff8-9c5c-4e79-abe4-628c24d34bbf/public_url)
 
-- 🌱 I'm currently studying for the Certified Kubernetes Administrator exam...
-
 ## Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-emmanuelgutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelperoco/)](https://www.linkedin.com/in/emmanuel-david-gutierrez/)
 [![Gmail Badge](https://img.shields.io/badge/eg.tecnologias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eg.tecnologias@gmail.com)](mailto:eg.tecnologias@gmail.com)
