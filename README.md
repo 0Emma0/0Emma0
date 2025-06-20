@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Welcome to my GitHub profile
-I'm an Infrastructure Specialist with over 20 years of experience in IT systems administration and web application support across complex infrastructure environments — including on-premises, cloud, and hybrid architectures.
+I'm an Infrastructure Specialist with over 20 years of experience in IT systems administration including on-premises, cloud, and hybrid architectures.
 
-I specialize in infrastructure automation, CI/CD pipelines, container orchestration, and cloud solutions. In my day-to-day work, I use technologies such as Linux, Jenkins, Ansible, Terraform, Docker, Kubernetes, AWS, GitHub, Prometheus, and Grafana.
+I specialize in infrastructure automation, CI/CD pipelines, container orchestration, and cloud solutions. In my day-to-day work, I use technologies such as Linux, Jenkins, Python, Ansible, Terraform, Docker, Kubernetes, AWS, GitHub, Prometheus, and Grafana.
 
 I'm passionate about building scalable, reliable, and secure systems by applying automation and modern DevOps practices.
 
