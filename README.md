@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## Welcome to my GitHub profile
-Since 2002 I have worked as an IT systems administrator and web application support in complex infrastructure environments, either cloud, hybrid cloud and on-premises. I'm currently working using Linux, Jenkins, Ansible, Terraform, Docker, Kubernetes, AWS, Google Cloud, Azure, GitHub, Prometheus, Grafana and more.
+I'm an Infrastructure Specialist with over 20 years of experience in IT systems administration and web application support across complex infrastructure environments — including on-premises, cloud, and hybrid architectures.
+
+I specialize in infrastructure automation, CI/CD pipelines, container orchestration, and cloud solutions. In my day-to-day work, I use technologies such as Linux, Jenkins, Ansible, Terraform, Docker, Kubernetes, AWS, GitHub, Prometheus, and Grafana.
+
+I'm passionate about building scalable, reliable, and secure systems by applying automation and modern DevOps practices.
 
 ## Certifications
 - [OpenHack: DevOps](https://www.credly.com/badges/931ed695-71e2-487d-8639-cedf68985640/public_url)
