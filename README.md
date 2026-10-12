@@ -6,7 +6,7 @@ I automate infrastructure end to end, design for resilience, and build AI agents
  
 ### 🔧 Currently working on
 
-**gitops-platform** — Kubernetes (RKE2) on Proxmox, provisioned with Terraform and Ansible and managed with ArgoCD, plus ephemeral AWS EKS environments for automated end-to-end validation. *(in progress)* 
+**[gitops-platform](https://github.com/0Emma0/gitops-platform)** — Kubernetes (RKE2) on Proxmox, provisioned with Terraform and Ansible and managed with ArgoCD, plus ephemeral AWS EKS environments for automated end-to-end validation. *(in progress)* 
 ### 🛠️ Core stack
  
 Terraform · Ansible · AWS · Azure · Kubernetes · Linux · Windows Server · PowerShell · Python · Jenkins · GitHub Actions · Prometheus · Grafana
